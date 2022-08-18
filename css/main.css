@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.bigboxtwo {
+    display: flex;
+    margin-top: 400px;
+    margin-left: 500px;
+}
+
+.t1 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 58px;
+    letter-spacing: 0.96px;
+    color: #1C2436;
+}
+
+.p1 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 0.36px;
+    color: #1C2436;
+    width: 431px;
+    margin-left: 170px;
+}
+
+.bigbox {
+    display: flex;
+    margin-left: 500px;
+    margin-top: 100px;
+}
+
+.imgbox {
+    border: 1px solid #E8E7EE;
+    border-radius: 0px;
+}
+
+.p2 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    /* identical to box height, or 139% */
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #1C2436;
+    padding-top: 30px;
+}
+
+.p3 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+    letter-spacing: 0.32px;
+    color: #454C5F;
+    width: 235px;
+    padding-top: 10px;
+}
+
+.imgbox2 {
+    margin-left: 50px;
+    border: 1px solid #E8E7EE;
+    border-radius: 0px;
+}
+
+.p4 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    /* identical to box height, or 139% */
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #1C2436;
+    padding-top: 30px;
+}
+
+.p5 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+    letter-spacing: 0.32px;
+    color: #454C5F;
+    width: 235px;
+    padding-top: 10px;
+}
+
+.imgbox3 {
+    margin-left: 50px;
+    border: 1px solid #E8E7EE;
+    border-radius: 0px;
+}
+
+.p6 {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    /* identical to box height, or 139% */
+    text-align: center;
+    letter-spacing: 0.48px;
+    color: #1C2436;
+    padding-top: 30px;
+}
+
+.p7 {
+    font-family: 'Be Vietnam Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+    text-align: center;
+    letter-spacing: 0.32px;
+    color: #454C5F;
+    width: 235px;
+    padding-top: 10px;
+}
+
+.icon1 {
+    margin-left: 80px;
+}
+
+.icon2 {
+    margin-left: 80px;
+}
+
+.icon3 {
+    margin-left: 80px;
+}
